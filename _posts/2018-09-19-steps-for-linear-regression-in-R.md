@@ -12,3 +12,6 @@ tags:
 
 > Steps for linear regression in R
 
+1. data preprocessing
+   
+2. 
