@@ -13,5 +13,11 @@ tags:
 > Steps for linear regression in R
 
 1. data preprocessing
-   
-2. 
+   * mean centering
+   * choose transformations (if is log, then it has to be done before mean centering)
+   * choose interactions between variables
+2. fit the model
+3. model diagonstics
+4. model outputs
+5. interpretations
+6. predictions
