@@ -12,7 +12,7 @@ github_repo: "https://github.com/chrimiway/chrimiway.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "TODO!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-ME-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
