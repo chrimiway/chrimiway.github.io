@@ -12,7 +12,7 @@ tags:
 
 > intro to linux
 
-1.CMD
+1. CMD
     * history -> show cmd you typed
         * history -c -> clear history
         * history -d (number) -> clear from that line
