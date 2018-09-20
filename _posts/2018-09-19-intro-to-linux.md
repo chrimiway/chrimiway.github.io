@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      introduction to linxu
+title:      introduction to linux
 subtitle:   intro
 date:       2018-09-19
 author:     Zhenhua Wang
@@ -29,7 +29,22 @@ tags:
       * -v -> prints a line for every file copied
     * rmdir -> delete empty dir (safe than rm -rf!)
     * whoami -> show user name
-    * 
+    * getent -> 
+    * chmod -> change permission
+      * u (User)
+      * g (Group)
+      * o (Other)
+      * + (Add Permission)
+      * - (Remove Permission)
+      * r (read)
+      * w (write)
+      * x (execute)
+      * other permission -> there permission can add up, 5 = 4 + 1 = read and execute
+        * 4 = read
+        * 2 = write
+        * 1 = execute
+    * chown -> change ownership
+    * chgrp -> change group
 2. hotkey
    * CTRL+R            Dynamically search your command history
      * ENTER -> run the result you got
