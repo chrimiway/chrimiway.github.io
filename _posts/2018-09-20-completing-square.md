@@ -25,4 +25,9 @@ One way to show that a function is a straightly positive is completing square.
 4. The last step is to count how many x2^2 we have used, and add up all the left x2^2 (Notes: the number of x2^2 left could be negtive, zero or positive)
 
 ## Example:
-    
+
+let say our function is "2x^2 + 12xy + 20y^2"
+
+1. 2(x + beta2*y)^2 + beta3 * y^2
+2. beta2 = 3, beta3 = 2
+3. 2(x + 3y)^2 + 2y^2
