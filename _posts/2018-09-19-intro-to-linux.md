@@ -4,7 +4,7 @@ title:      introduction to linux
 subtitle:   intro
 date:       2018-09-19
 author:     Zhenhua Wang
-header-img: img/post-intro-linux.jpg
+header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
     - linux
