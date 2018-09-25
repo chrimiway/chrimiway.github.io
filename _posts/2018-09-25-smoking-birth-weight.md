@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      case study: what affects birth weight?
-subtitle:   
+title:      Case Study: what affects birth weight?
+subtitle:   smoking? education? race?
 date:       2018-09-25
 author:     Zhenhua Wang
 header-img: img/post-bg-coffee.jpg
