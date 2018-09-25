@@ -55,7 +55,7 @@ Let's start exploratory data analysis. First, I would like to see is there any r
 plot(bwt.oz ~ date_cent, data = smoke)
 ```
 
-![](assignment3_files/figure-markdown_github/unnamed-chunk-3-1.png)
+![](./assignment3_files/figure-markdown_github/unnamed-chunk-3-1.png)
 
 ``` r
 plot(bwt.oz ~ parity, data = smoke)
