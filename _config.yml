@@ -12,7 +12,7 @@ github_repo: "https://github.com/Crice22/Crice22.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-ME-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
