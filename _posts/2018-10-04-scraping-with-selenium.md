@@ -49,11 +49,11 @@ tags:
 
     The next step is locate the information we need on the website. We could use xpath or css selector to locate it. For example, we could right click the information we need, and in the menu we click 'inspect'[<8;84;26m]option. Then the browser would open the developer tools.
 
-    ![alt text](https://github.com/chrimiway/chrimiway.github.io/blob/master/_posts/scraping/find_elem.png "locate information")
+    ![alt text](img/scraping/find_elem.png)
 
     Then you could right click the HTML node which you're interested. You then select copy -> copy XPath or copy css selector.
 
-    ![alt text](https://github.com/chrimiway/chrimiway.github.io/blob/master/_posts/scraping/copy_xpath.png "copy xpath")
+    ![copy xpath](img/scraping/copy_xpath.png)
 
     After you successfully locate the information, you may tell your driver to find it.
 
