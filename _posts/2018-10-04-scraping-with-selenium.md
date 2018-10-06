@@ -62,6 +62,7 @@ tags:
     info2 = driver.find_elements_by_css_selector("YOUR CSS SELECTOR HERE")
     ```
     other functions you may find useful:
+
         1. to find single element:
            find_element_by_id
            find_element_by_name
@@ -71,6 +72,7 @@ tags:
            find_element_by_tag_name
            find_element_by_class_name
            find_element_by_css_selector
+
         2. to find multiple elements:
            find_elements_by_name
            find_elements_by_xpath
