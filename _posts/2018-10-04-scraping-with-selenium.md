@@ -24,7 +24,7 @@ tags:
 
     In order to use the python in this new environment, we need to activate it first.
     ```sh
-    source /path/to/YOURENV
+    source /path/to/YOURENV/bin/activate
     ```
 
     Now, you are in your virtual environment. You could then install selenium using pip.
