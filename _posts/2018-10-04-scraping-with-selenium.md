@@ -4,7 +4,7 @@ title:      Scraping courses review using selenium
 subtitle:   a intro to how to use selenium
 date:       2018-10-04
 author:     Zhenhua Wang
-header-img: img/post-bg-coffee.jpg
+header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
     - data scraping
