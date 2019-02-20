@@ -11,18 +11,6 @@ header-img: "img/post-bg-rwd.jpg"
     <option value="1" selected> 英文 English </option>
 </select> -->
 
-<!-- Chinese Version -->
-<div class="zh post-container">
-
-    <!--copied from markdown -->
-    <blockquote><p>保持饥饿，<br>
-    保持傻逼。</p></blockquote>
-
-    <p>Hey，我是<strong>振华</strong>，爱好统计，数据科学，目前杜克MIDS学生。</p>
-
-    <p>喜欢篮球、音乐。</p>
-</div>
-
 <!-- English Version -->
 <div class="en post-container">
     <blockquote><p>Stay hungry, <br>
@@ -62,11 +50,7 @@ header-img: "img/post-bg-rwd.jpg"
 
     // handle select change
     function onLanChange(index){
-        if(index == 0){
-            window.location.hash = "#zh"
-        }else{
-            window.location.hash = "#en"
-        }
+        window.location.hash = "#en"
     }
 
     // init
